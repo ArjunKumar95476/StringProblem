@@ -1,13 +1,12 @@
 ## StringProblem
-
+1 .Reverse a String <br>
 2 .Check whether a String is Palindrome or not <br>
 3 .Find Duplicate characters in a string <br>
 4 .Why strings are immutable in Java? <br>
 5 .Write a Code to check whether one string is a rotation of another <br>
 6 .Write a Program to check whether a string is a valid shuffle of two strings or not <br>
-1 .Reverse a String <br>
 7 .Count and Say problem<br>
-8 .Write a program to find the longest Palindrome in a string<br>[ Longest palindromic Substring] <br>
+8 .Write a program to find the longest Palindrome in a string [ Longest palindromic Substring] <br>
 9 .Find Longest Recurring Subsequence in String <br>
 10 .Print all Subsequences of a string<br> 
 11 .Print all the permutations of the given string <br>
